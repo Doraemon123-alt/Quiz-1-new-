@@ -1,0 +1,29 @@
+{
+  "gameState" : 0,
+  "question" : [ null, {
+    "a" : "eXecutable Multiple Language",
+    "b" : "eXtensible Markup Language",
+    "correct" : "eXtensible Markup Language",
+    "que" : "What does XML stand for?"
+  }, {
+    "a" : "HyperText Mark up Language",
+    "b" : "Hyper Tele Medium Language",
+    "correct" : "HyperText Mark up Language",
+    "que" : "What does HTML stand for ?"
+  }, {
+    "a" : "Common Style Sheet",
+    "b" : "Cascading Style Sheet",
+    "correct" : "Cascading Style Sheet",
+    "que" : "What does CSS stand for?"
+  }, {
+    "a" : "Stylesheet Query Language",
+    "b" : "Structured Query Language",
+    "correct" : "Structured Query Language",
+    "que" : "What does SQL stand for?"
+  }, {
+    "a" : "Hypertext Preprocessor",
+    "b" : "Hypertext Preprogramming",
+    "correct" : "Hypertext Preprocessor",
+    "que" : "What does PHP stand for?"
+  } ]
+}
